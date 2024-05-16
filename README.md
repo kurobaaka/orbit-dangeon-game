@@ -5,7 +5,7 @@
 ## See it in action [here!](https://nottimtam.github.io/dendgeon/engine/)
 
 # Big changes on the way in /dev.
-Finally, [the raycasting you've been waiting for!](https://github.com/NotTimTam/dendgeon/tree/dev)
+Finally, [the raycasting you've been waiting for!](https://github.com/Waideloss/orbit-dangeon-game)
 
 ## About
 
