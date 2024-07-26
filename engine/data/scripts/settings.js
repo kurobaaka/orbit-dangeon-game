@@ -11,5 +11,5 @@ let renderLighting = true;
 
 // Engine Settings
 let paused = false; // Whether or not logic functions can run.
-let debugging = false; // Show debugging information.
+let debugging = true; // Show debugging information.
 let showRays = true; // Show each raycast when we are debugging.
